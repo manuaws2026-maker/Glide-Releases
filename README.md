@@ -20,7 +20,7 @@ Auto‑zoom that follows your clicks · buttery cursor motion · cinematic backg
 
 You hit record, click through your product, and stop. The result is shaky, zoomed‑out, and forgettable — the cursor darts around, nothing draws the eye, and there’s no voiceover.
 
-**Glide fixes all of that in one pass.** Drop in a recording (or record right inside the app) and it instantly adds smooth motion, zooms into every click, frames it on a beautiful background, and can even write and speak the narration for you. Tweak anything you like, then export a crisp MP4 or GIF.
+**Glide fixes all of that in one pass.** Record your screen right inside Glide — it tracks your cursor and clicks as you go, then instantly adds smooth motion, zooms into every click, frames it on a beautiful background, and can even write and speak the narration for you. Tweak anything you like, then export a crisp MP4 or GIF.
 
 No motion‑graphics skills. No fiddly keyframes. Just a recording that looks like a studio made it.
 
@@ -68,7 +68,7 @@ Render a sharp **MP4**, an **animated GIF**, or **WebM**, with quality presets a
 
 ## Get started in 60 seconds
 
-1. **Record** your screen (and camera, if you like) — or open an existing recording.
+1. **Record** your screen (and camera, if you like) right inside Glide — or reopen a saved Glide project.
 2. **Watch Glide polish it** — auto‑zoom, smooth cursor, and a framed background, applied automatically.
 3. **Add a voiceover** — describe your product and let Glide write and speak it, or record your own.
 4. **Tweak & export** — adjust anything on the timeline, then export an MP4 or GIF to share anywhere.
