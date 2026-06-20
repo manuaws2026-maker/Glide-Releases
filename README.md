@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" alt="Glide" width="170" />
 
-# Glide — Video Editor
+# Glide — Professional screen recorder for macOS
 
 ### Turn rough screen recordings into polished, share‑ready demos — automatically.
 
