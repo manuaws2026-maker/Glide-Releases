@@ -49,6 +49,7 @@ A webcam bubble done tastefully.
 - **Auto‑fit** — lines are timed so they never overlap or run past the video.
 - **Per‑line control** — edit any line and re‑voice just that one.
 - **Your own voice** — record narration yourself instead.
+- **Voice cloning** — record a short sample (or upload one) and Glide creates a custom AI voice you can narrate in, without leaving the app. (Needs a paid ElevenLabs plan.)
 - **Transparency** — a live activity view shows what the AI inferred and how it scored each draft.
 
 > The AI voiceover uses your own API keys (Google Gemini for the script, ElevenLabs for the voice), stored encrypted on your Mac. See the [FAQ](faq.md).

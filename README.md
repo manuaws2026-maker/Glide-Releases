@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Glide" width="170" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png" />
+  <img src="assets/logo.png" alt="Glide" width="170" />
+</picture>
 
 # Glide — Professional screen recorder for macOS
 
@@ -39,7 +42,7 @@ Real cursors are jittery. Glide replaces yours with a **smooth, weighted pointer
 <img src="assets/screenshots/cursor.png" alt="Smooth cursor and click effects" width="760" />
 
 ### 🎙️ AI voiceover that writes your script
-Describe your product in a sentence. Glide **watches your recording**, figures out who it’s for, and writes a natural, on‑brand voiceover — then speaks it in a lifelike voice and lines it up to the video so nothing overlaps. Don’t like a line? Edit it and re‑voice just that line.
+Describe your product in a sentence. Glide **watches your recording**, figures out who it’s for, and writes a natural, on‑brand voiceover — then speaks it in a lifelike voice and lines it up to the video so nothing overlaps. Don’t like a line? Edit it and re‑voice just that line. You can even **clone your own voice** right in the app — record a short sample and narrate in it.
 
 <img src="assets/screenshots/voiceover.png" alt="AI voiceover studio" width="760" />
 
