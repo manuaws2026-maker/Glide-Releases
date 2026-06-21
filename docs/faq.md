@@ -12,7 +12,7 @@ Yes — the usual macOS recording permissions:
 macOS prompts you the first time. If you ever miss a prompt, enable them under **System Settings → Privacy & Security**.
 
 ## Is my data private?
-Yes. Glide runs entirely on your Mac. Recordings, projects, and exports stay local. The only time anything leaves your machine is if you use the optional AI voiceover, which sends the recording and your brief to the AI services you’ve configured.
+Yes. Glide runs entirely on your Mac. Recordings, projects, and exports stay local. The only time anything leaves your machine is if you use the optional AI features — the voiceover sends your recording and brief to the AI services you’ve configured; the AI avatar sends your script text to HeyGen.
 
 ## What do I need for the AI voiceover?
 It’s optional. To use it you bring your own API keys:
@@ -20,6 +20,16 @@ It’s optional. To use it you bring your own API keys:
 - **ElevenLabs** — speaks the script in a lifelike voice.
 
 You paste these once; they’re stored **encrypted on your Mac** and used only to call those services, billed to your own accounts. You can also skip AI entirely and record narration with your own voice.
+
+## What do I need for the AI avatar?
+The AI avatar presenter uses your own **HeyGen** API key. Two things to know:
+- Your HeyGen account needs **API credits** — these are a **separate wallet** from a HeyGen studio/subscription plan. Enable them under **Settings → API** at app.heygen.com.
+- It’s pay‑as‑you‑go (~$3–4 per minute of avatar video), billed to your HeyGen account.
+
+Paste the key once in the avatar window; it’s stored **encrypted on your Mac** and used only to call HeyGen. Glide lets you choose a voiceover **or** an avatar upfront, so you don’t spend voice credits if you’d rather use the avatar.
+
+## My HeyGen avatar fails with “insufficient credit” — why?
+HeyGen separates **studio credits** (the web app) from **API credits** (what Glide and any API use). A studio subscription doesn’t fund the API. Add **API credits** under Settings → API at app.heygen.com, then try again.
 
 ## What formats can I export?
 **MP4** (best for sharing), **GIF** (for autoplay loops), and **WebM**, each with quality presets. Markers become chapters in the exported MP4.

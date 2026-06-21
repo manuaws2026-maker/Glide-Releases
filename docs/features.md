@@ -54,6 +54,16 @@ A webcam bubble done tastefully.
 
 > The AI voiceover uses your own API keys (Google Gemini for the script, ElevenLabs for the voice), stored encrypted on your Mac. See the [FAQ](faq.md).
 
+## AI avatar presenter
+Put a presenter on screen without filming yourself.
+- **Pick an avatar & voice** — choose a lifelike avatar and voice; it reads your finalized voiceover script.
+- **Talking‑head overlay** — the rendered avatar drops onto your recording as a picture‑in‑picture presenter, **lip‑synced** to its own voice.
+- **Stays in sync, never cut off** — the avatar plays on its own clock and the timeline auto‑extends to fit, holding the last screen frame if the presenter runs longer than the recording.
+- **Choose upfront** — pick a voiceover **or** an avatar, so you don’t spend voice credits you don’t need.
+- **Your webcam stays safe** — if you recorded your own camera, it’s preserved as a separate copy; switch back to it anytime with one click.
+
+> The AI avatar uses your own **HeyGen** API key (with **API credits** enabled — separate from a HeyGen studio plan), stored encrypted on your Mac. Pay‑as‑you‑go (~$3–4 per minute of avatar video), billed to your HeyGen account. See the [FAQ](faq.md).
+
 ## Motion blur
 A touch of cinematic blur on fast cursor moves and zoom transitions, so motion reads as smooth rather than abrupt. Tunable per‑source (cursor, zoom, pan).
 

@@ -9,7 +9,7 @@
 
 ### Turn rough screen recordings into polished, share‑ready demos — automatically.
 
-Auto‑zoom that follows your clicks · buttery cursor motion · cinematic backgrounds · captions · and an AI voiceover that writes *and* narrates your script.
+Auto‑zoom that follows your clicks · buttery cursor motion · cinematic backgrounds · captions · an AI voiceover that writes *and* narrates your script · or an AI avatar that presents it.
 
 **[⬇️ Download for macOS](https://github.com/manuaws2026-maker/Glide-Releases/releases/latest)**  ·  Apple Silicon  ·  Free
 
@@ -46,6 +46,9 @@ Describe your product in a sentence. Glide **watches your recording**, figures o
 
 <img src="assets/screenshots/voiceover.png" alt="AI voiceover studio" width="760" />
 
+### 🧑‍💼 AI avatar presenter
+Want a face on camera without filming yourself? Pick a lifelike **AI avatar** and it presents your voiceover script as a **lip‑synced talking‑head overlay**, dropped right onto your recording. Glide keeps it in sync across your edits and stretches the timeline to fit so nothing gets cut off. Already recorded your own webcam? It’s kept safe — switch back with one click. Uses your own HeyGen API key.
+
 ### 🖼️ Cinematic backgrounds & framing
 Wrap your recording in gradients, wallpapers, or solid colors, with adjustable padding, rounded (squircle) corners, shadow, and an inset border. Instantly turns a plain capture into something you’d put on a landing page.
 
@@ -73,7 +76,7 @@ Render a sharp **MP4**, an **animated GIF**, or **WebM**, with quality presets a
 
 1. **Record** your screen (and camera, if you like) right inside Glide — or reopen a saved Glide project.
 2. **Watch Glide polish it** — auto‑zoom, smooth cursor, and a framed background, applied automatically.
-3. **Add a voiceover** — describe your product and let Glide write and speak it, or record your own.
+3. **Add a voiceover or an avatar** — describe your product and let Glide write and speak it, record your own, or have an AI avatar present it.
 4. **Tweak & export** — adjust anything on the timeline, then export an MP4 or GIF to share anywhere.
 
 📖 **[Read the docs →](docs/getting-started.md)**
@@ -88,7 +91,7 @@ Render a sharp **MP4**, an **animated GIF**, or **WebM**, with quality presets a
 
 **Requirements:** macOS 12+ on Apple Silicon.
 
-The AI voiceover is optional and uses your own API keys, kept encrypted on your Mac — see the **[FAQ](docs/faq.md)**.
+The AI voiceover and avatar are optional and use your own API keys (Gemini, ElevenLabs, HeyGen), kept encrypted on your Mac — see the **[FAQ](docs/faq.md)**.
 
 ---
 

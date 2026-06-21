@@ -31,7 +31,7 @@ Use the panel rail on the right to fine‑tune anything:
 | **Camera** | Webcam size, shape, position, mirror |
 | **Audio** | Mic / system levels, voice clean‑up, background music |
 | **Captions** | Auto‑transcribed, editable captions |
-| **Voiceover** | AI‑written and ‑spoken narration (or record your own) |
+| **Voiceover** | AI‑written and ‑spoken narration (or record your own, or an AI avatar presenter) |
 
 Below the preview, the **timeline** lets you trim, cut, change speed, and rearrange zoom / caption / voice blocks.
 
@@ -40,6 +40,8 @@ Below the preview, the **timeline** lets you trim, cut, change speed, and rearra
 Open the **Voiceover** panel, write a one‑line description of your product in the brief box, and click **✦ Generate**. Glide watches the video, writes a script aimed at your audience, and lays the lines out to fit. Pick a voice and click **Voice all** to hear it. Edit any line and re‑voice just that line with the **⟳** button.
 
 Prefer your own voice? Add a line and hit **🎤** to record it.
+
+Want a presenter on screen instead? Once your script is ready, click **🧑‍💼 AI avatar** to have a lifelike avatar read it and appear as a talking‑head overlay on your recording. (Uses your own HeyGen API key — see the [FAQ](faq.md).)
 
 ## 5. Export & share
 
