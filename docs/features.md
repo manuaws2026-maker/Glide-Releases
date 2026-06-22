@@ -4,7 +4,8 @@ Every panel in Glide, and what it does.
 
 ## Background
 Frame your recording so it looks designed, not captured.
-- **Type** — system wallpaper, gradient, solid color, or your own image.
+- **Type** — system wallpaper, gradient, solid color, a blurred copy of your screen, or your own image.
+- **Background blur** — soften the wallpaper or image so the recording stands out in front of it.
 - **Padding** — how much space around the recording.
 - **Corner radius & squircle** — rounded corners, with an Apple‑style superellipse for a softer curve.
 - **Shadow** — intensity, angle, distance, blur, optional directional light.
@@ -15,7 +16,7 @@ Make the pointer feel intentional.
 - **Smoothing** — spring‑based motion that eases between targets instead of snapping.
 - **Size** — scale the cursor up so it’s easy to follow.
 - **Click effects** — a ripple or highlight on every click.
-- **Shake removal** — irons out little jitters and circles.
+- **De‑shake** — smooths tiny cursor jitter around each click so clicks look deliberate.
 - **Hide when idle** — fade the cursor out when it stops moving.
 
 ## Zoom
@@ -28,9 +29,14 @@ The feature that makes demos feel alive.
 
 ## Camera
 A webcam bubble done tastefully.
-- **Size, position, shape** — round or rounded‑square, in any corner.
+- **Size & position** — any size, in any corner.
+- **Roundness** — from rounded‑square all the way to a perfect circle.
 - **Mirror** — flip horizontally.
 - **Scale during zoom** — the bubble shrinks while the screen is zoomed so it never blocks the action.
+
+## Crop & mask
+- **Crop** — trim the frame to just the region you want to show.
+- **Mask** — draw regions to blur or hide sensitive parts of the screen, like passwords, emails, or faces.
 
 ## Audio
 - **Microphone & system audio** — independent levels and mute.
@@ -38,9 +44,9 @@ A webcam bubble done tastefully.
 - **Background music** — drop in a track that **automatically ducks** under narration.
 - **Click sounds** — optional audible feedback on clicks.
 
-## Captions
-- Auto‑transcribed from your narration.
-- Fully editable text and timing, with adjustable size.
+## Captions & keystrokes
+- Auto‑transcribed from your narration, with fully editable text and timing and adjustable size.
+- **Keystroke overlay** — show the keys you press as on‑screen badges (e.g. ⌘C), with options for showing single letters and adjusting badge size.
 - Great for silent autoplay on social.
 
 ## Voiceover (AI)
@@ -73,6 +79,7 @@ A touch of cinematic blur on fast cursor moves and zoom transitions, so motion r
 - Freeze frames are inserted automatically when needed to fit narration, and stay editable.
 
 ## Export
-- **MP4**, **GIF**, or **WebM**.
+- **MP4**, **GIF**, or **WebM**, at your chosen aspect ratio (16:9, 9:16, 1:1, 4:3), resolution, and frame rate.
 - Quality presets.
 - Embedded chapters from your markers.
+- Export captions as an **SRT** subtitle file, or save the current frame as a **PNG**.

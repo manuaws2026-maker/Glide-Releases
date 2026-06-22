@@ -12,7 +12,7 @@ Yes — the usual macOS recording permissions:
 macOS prompts you the first time. If you ever miss a prompt, enable them under **System Settings → Privacy & Security**.
 
 ## Is my data private?
-Yes. Glide runs entirely on your Mac. Recordings, projects, and exports stay local. The only time anything leaves your machine is if you use the optional AI features — the voiceover sends your recording and brief to the AI services you’ve configured; the AI avatar sends your script text to HeyGen.
+Yes. Your recordings, projects, and exports stay on your Mac — they’re never uploaded to us. A few things do make network calls: the optional **AI features** send data straight to the services you configured (the voiceover sends your recording and brief to your AI provider; the avatar sends your script text to HeyGen); Glide **checks GitHub for app updates**; and **anonymous usage analytics** help improve the app — no recordings, scripts, or keys, opt‑out outside the EU/UK and opt‑in within, toggled in **Help → Privacy & analytics**. Full details are in the [Privacy Policy](../PRIVACY.md).
 
 ## What do I need for the AI voiceover?
 It’s optional. To use it you bring your own API keys:
@@ -32,7 +32,7 @@ Paste the key once in the avatar window; it’s stored **encrypted on your Mac**
 HeyGen separates **studio credits** (the web app) from **API credits** (what Glide and any API use). A studio subscription doesn’t fund the API. Add **API credits** under Settings → API at app.heygen.com, then try again.
 
 ## What formats can I export?
-**MP4** (best for sharing), **GIF** (for autoplay loops), and **WebM**, each with quality presets. Markers become chapters in the exported MP4.
+**MP4** (best for sharing), **GIF** (for autoplay loops), and **WebM**, each with quality presets. Markers become chapters in the exported MP4, and you can export your captions separately as an **SRT** subtitle file.
 
 ## The voiceover sounds rushed or lines overlap — what happened?
 Glide times each line to fit the video and inserts brief freeze‑frames so nothing overlaps. If a script is much longer than the video, it gently speeds up the tightest lines. Shorten a line (or let Glide regenerate a tighter script) and re‑voice to fix it.
@@ -44,7 +44,7 @@ That’s the upstream AI service being under heavy load. Glide automatically ret
 Absolutely. Every line is editable, and you can re‑voice a single line with the **⟳** button without touching the rest.
 
 ## Where are my projects saved?
-Recordings auto‑save as `.glide` projects (a folder bundle) so your edits and voices persist. Use **Save a copy…** to write a named copy somewhere else.
+Recordings auto‑save as Glide project bundles (a folder holding your media, edits, and voices) so nothing is lost. Use **Save a copy…** to write a named copy somewhere else.
 
 ## Is Glide signed?
 Yes — Glide is signed and notarized with a Developer ID, so it opens without Gatekeeper warnings.

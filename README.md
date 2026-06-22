@@ -21,7 +21,7 @@
 
 The recording is the easy bit. After that, most tools hand you a shaky, zoomed‑out clip and leave the rest to you — figure out what to say, write a script, set up a mic, do takes until you stop stumbling, then sit in an editor adding zooms and motion by hand.
 
-**Glide does that part for you.** It watches your recording, works out who it's for, and writes an audience‑aware voiceover — then speaks it in a lifelike AI voice, your own cloned voice, or hands it to an on‑screen AI avatar presenter. At the same time it adds smooth cursor motion, zooms into every click, and frames the whole thing on a cinematic background. Tweak anything you like, then export a crisp MP4 or GIF.
+**Glide does that part for you.** It watches your recording, works out who it's for, and writes an audience‑aware voiceover — then speaks it in a lifelike AI voice, your own cloned voice, or hands it to an on‑screen AI avatar presenter. At the same time it adds smooth cursor motion, zooms into every click, and frames the whole thing on a cinematic background. Tweak anything you like, then export a crisp MP4, GIF, or WebM.
 
 No script to write. No mic. No keyframes. Just a recording that sounds and looks like a studio made it.
 
@@ -58,7 +58,7 @@ Wrap your recording in gradients, wallpapers, or solid colors, with adjustable p
 Add a picture‑in‑picture camera bubble — round or rounded‑square, repositionable, with a subtle scale‑down during zooms so it never blocks the action.
 
 ### 💬 Captions
-Auto‑transcribed captions you can style and edit — great for silent autoplay on social.
+Auto‑transcribed captions you can edit and resize — great for silent autoplay on social.
 
 ### 🔊 Audio & music
 Mic + system audio, optional voice clean‑up, and background music that **automatically ducks** under narration. Add click sounds for extra feedback.
@@ -79,7 +79,7 @@ Render a sharp **MP4**, an **animated GIF**, or **WebM**, with quality presets a
 1. **Record** your screen (and camera, if you like) right inside Glide — or reopen a saved Glide project.
 2. **Watch Glide polish it** — auto‑zoom, smooth cursor, and a framed background, applied automatically.
 3. **Add a voiceover or an avatar** — describe your product and let Glide write and speak it, record your own, or have an AI avatar present it.
-4. **Tweak & export** — adjust anything on the timeline, then export an MP4 or GIF to share anywhere.
+4. **Tweak & export** — adjust anything on the timeline, then export an MP4, GIF, or WebM to share anywhere.
 
 📖 **[Read the docs →](docs/getting-started.md)**
 

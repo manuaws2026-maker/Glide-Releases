@@ -31,7 +31,7 @@ It covers the Glide application. It does not cover third‑party services you se
 
 Glide runs on your Mac. Recording, editing, and exporting all happen locally, and the files are saved on your device under your control. We do not operate a server that stores your content, and Glide is designed so that we do not receive your recordings, projects, exports, scripts, or briefs. We don't ask for your name or email to run the app, and we don't build a profile of you.
 
-### Pseudonymous usage analytics (on by default, easy to turn off)
+### Pseudonymous usage analytics (opt‑out elsewhere, opt‑in in the EU/UK)
 
 To understand which features are used and what breaks, Glide includes product analytics powered by **PostHog**, which acts as our data processor and processes these events in the **United States** under a data‑processing agreement. This is disclosed on first run. **In the EU and UK it is off until you choose to turn it on (opt‑in); elsewhere it is on by default and you can turn it off at any time (opt‑out)** — both in **Help → Privacy & analytics**. When it's off, it stays off.
 

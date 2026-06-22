@@ -16,7 +16,7 @@ This is a general template, not legal advice; have a lawyer review it for your j
 
 ---
 
-These Terms of Use ("Terms") are a binding agreement between you and **Manu Mehrotra, an individual** ("Glide," "we," "us," or "the developer"), and govern your use of **Glide**, a screen‑recording video editor for macOS (Apple Silicon, macOS 12 or later) that you download and run on your own Mac.
+These Terms of Use ("Terms") are a binding agreement between you and **Manu Mehrotra, an individual** ("we," "us," or "the developer"), and govern your use of **Glide**, a screen‑recording video editor for macOS (Apple Silicon, macOS 12 or later) that you download and run on your own Mac.
 
 **Please read Sections 7–9 and 11 carefully — they limit our liability, allocate risk to you, and affect how disputes are resolved.**
 
@@ -72,7 +72,7 @@ If you prefer not to use these services, Glide works without them, and you can r
 
 Glide is currently **free** to download and use, and all current features are available at no charge.
 
-We may later offer a paid "Pro" tier, and some features (and the removal of any free‑tier watermark) may be limited to it. Any fees, billing, renewal (including any automatic renewal and how to cancel it), refund, and purchase terms will be **presented to and accepted by you separately at the time of purchase**, and those terms will govern that purchase. Nothing in these Terms obligates you to pay for anything offered free of charge, or entitles you to any paid feature.
+Glide currently has no watermark and no usage limits. We may later offer a paid "Pro" tier, and if we do, some features (and the removal of any watermark a future free tier might introduce) could be limited to it. Any fees, billing, renewal (including any automatic renewal and how to cancel it), refund, and purchase terms will be **presented to and accepted by you separately at the time of purchase**, and those terms will govern that purchase. Nothing in these Terms obligates you to pay for anything offered free of charge, or entitles you to any paid feature.
 
 ## 7. Disclaimers — use at your own risk
 
