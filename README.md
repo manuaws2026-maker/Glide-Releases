@@ -87,21 +87,11 @@ Render a sharp **MP4**, an **animated GIF**, or **WebM**, with quality presets a
 
 ## Pricing
 
-> ⚙️ **Pricing is being finalized.** The plans below show what Free and Pro will include. Final prices are not set yet.
+**Glide is free.** Everything in this version is included at no charge — recording, editing, all export formats (MP4 / GIF / WebM), auto‑zoom, smooth cursor, backgrounds, captions, **and** the AI voiceover, voice cloning, and AI avatar presenter. No watermark, no export limits.
 
-| | **Free** | **Pro** |
-|---|---|---|
-| **Price** | $0 | TBD |
-| Record, edit & export | ✓ | ✓ |
-| MP4 / GIF / WebM export | ✓ | ✓ |
-| Auto‑zoom, smooth cursor, backgrounds, captions | ✓ | ✓ |
-| Watermark on exports | Small watermark | None |
-| Export length / project limits | Limited | Unlimited |
-| AI voiceover (writes & speaks your script) | — | ✓ |
-| Voice cloning | — | ✓ |
-| AI avatar presenter | — | ✓ |
+The AI features use **your own API keys** (Gemini, ElevenLabs, HeyGen), billed to your own accounts and kept encrypted on your Mac — see the **[FAQ](docs/faq.md)**.
 
-The AI voiceover and avatar features use your own API keys (Gemini, ElevenLabs, HeyGen), billed to your own accounts and kept encrypted on your Mac — see the **[FAQ](docs/faq.md)**.
+> A paid **Pro** tier may come later. If it does, we'll spell out exactly what's included before anything changes — and nothing you have today gets taken away by surprise.
 
 ---
 
