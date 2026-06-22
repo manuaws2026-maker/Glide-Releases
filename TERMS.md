@@ -98,7 +98,7 @@ To the extent permitted by applicable law — and except where you act as a cons
 
 ## 11. Governing law and disputes
 
-These Terms are governed by the laws of the **State of California, USA**, without regard to its conflict‑of‑laws rules. You and we agree to the **non‑exclusive** jurisdiction of the state and federal courts located in **Santa Clara County, California (San Jose)** for disputes relating to these Terms or Glide.
+These Terms are governed by the laws of the **State of Delaware, USA**, without regard to its conflict‑of‑laws rules. You and we agree to the **non‑exclusive** jurisdiction of the state and federal courts located in **Santa Clara County, California (San Jose)** for disputes relating to these Terms or Glide.
 
 **Nothing in this Section deprives you, as a consumer, of the protection of mandatory provisions of the law of your country or state of residence, including your right to bring or defend proceedings there.** To the extent permitted by applicable law, any dispute will be resolved on an **individual basis**, and you and we waive any right to participate in a class or representative action; this waiver does not apply where the law applicable to you prohibits it.
 
