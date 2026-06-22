@@ -33,7 +33,7 @@ Glide runs on your Mac. Recording, editing, and exporting all happen locally, an
 
 ### Pseudonymous usage analytics (on by default, easy to turn off)
 
-To understand which features are used and what breaks, Glide includes product analytics powered by **PostHog**, which acts as our data processor and processes these events in the **United States** under a data‑processing agreement. This is disclosed on first run and is **on by default; you can turn it off anytime in Help → Privacy & analytics.** When it's off, it stays off.
+To understand which features are used and what breaks, Glide includes product analytics powered by **PostHog**, which acts as our data processor and processes these events in the **United States** under a data‑processing agreement. This is disclosed on first run. **In the EU and UK it is off until you choose to turn it on (opt‑in); elsewhere it is on by default and you can turn it off at any time (opt‑out)** — both in **Help → Privacy & analytics**. When it's off, it stays off.
 
 What this involves:
 
@@ -83,7 +83,7 @@ Glide checks **GitHub Releases** for updates and may download them, which involv
 
 ## 5. Legal bases for processing (GDPR/UK GDPR)
 
-To the extent the EU/UK GDPR applies, our legal basis for the pseudonymous usage analytics and optional crash diagnostics is our **legitimate interest** (Art. 6(1)(f)) in maintaining, securing, and improving Glide and diagnosing problems — balanced against your rights and limited to the minimal pseudonymous signals in Section 2, which you can switch off at any time. We do not use this data for advertising or profiling, and we collect no special‑category data. If you are in the EU/UK and prefer that we not process these signals, turn analytics off in **Help → Privacy & analytics**; you also have the right to object (Section 7).
+To the extent the EU/UK GDPR applies: for users in the **EU/UK**, where analytics are **off until you opt in**, our legal basis is your **consent** (Art. 6(1)(a)), which you can withdraw at any time in **Help → Privacy & analytics**. For users elsewhere, we rely on our **legitimate interest** (Art. 6(1)(f)) in maintaining, securing, and improving Glide and diagnosing problems — limited to the minimal pseudonymous signals in Section 2 — and you can object or turn it off at any time in the same place. We do not use this data for advertising or profiling, and we collect no special‑category data.
 
 ## 6. Retention
 
