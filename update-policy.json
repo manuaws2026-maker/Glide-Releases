@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.5",
-  "minimum": "1.0.5",
+  "latest": "1.0.6",
+  "minimum": "1.0.6",
   "notes": "Glide auto-update policy. 'latest' = newest version; 'minimum' = the lowest version still allowed to run (anything below it is force-updated). Raise 'minimum' to force users onto a critical release."
 }
